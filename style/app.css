@@ -1,6 +1,7 @@
 body {
 	margin-top: 100px; /* 100px is double the height of the navbar - I made it a big larger for some more space - keep it at 50px at least if you want to use the fixed top nav */
     line-height:170%;
+    background: #f4f4f4;
 }
 
 footer {
@@ -17,7 +18,7 @@ footer {
 
 .error{
     margin-top:10px;
-    color:#df691a;
+    color:#0099b3;
 }
 
 #ds-thread #ds-reset .ds-comments{
@@ -29,7 +30,7 @@ footer {
 }
 
 #ds-reset .ds-highlight{
-    color:#df691a!important;
+    color:#0099b3!important;
 }
 #ds-thread #ds-reset .ds-comment-body p{
     color:#EBEBEB;
