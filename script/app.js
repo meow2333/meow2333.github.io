@@ -4,7 +4,7 @@ blog.constant('blogConfig',{
     "site_name":"··蔚蓝··新闻&Tips",
     "pagesize":10,//每页显示文章数
     "duoshuo_domain":"azure",//多说评论，你在多说上申请的二级域名
-    "categories":["PHP","ThinkPHP","服务器","数据库","前端","HTML5","CSS","javascript","jQuery","bootstrap","angularjs","phonegap","go","python","工具","编辑器"],
+    "categories":["空气质量标准", "污染", "防治", "PM2.5", "PM10", "AQI", "SO2", "NO2", "O3"],
     "AVOS_ID":"blgx18bu3llnxjmstq0q528k7ogjwgqnlv3tm9b1926af47x",
     "AVOS_KEY":"zwdgquddmljlde2crhfztjk0csrzplv0x5wlk2odpgqmoh0u",
     "header_pics":[
