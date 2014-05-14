@@ -48,3 +48,6 @@ footer {
 #ds-thread #ds-reset.ds-no-opacity .ds-comments, #ds-thread #ds-reset.ds-no-opacity .ds-paginator{
     border-bottom:#999 1px solid!important;
 }
+.pager .disabled>a, .pager .disabled>a:hover, .pager .disabled>a:focus, .pager .disabled>span {
+    background-color: #e5e5e5!important;
+}
