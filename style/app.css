@@ -2,6 +2,7 @@ body {
 	margin-top: 100px; /* 100px is double the height of the navbar - I made it a big larger for some more space - keep it at 50px at least if you want to use the fixed top nav */
     line-height:170%;
     background: #f4f4f4;
+    color: #333333!important;
 }
 
 footer {
@@ -15,7 +16,9 @@ footer {
 .action_bar .pull-right{
     margin-left:10px;
 }
-
+.well {
+    background: #e5e5e5!important;
+}
 .error{
     margin-top:10px;
     color:#0099b3;
