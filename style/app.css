@@ -25,7 +25,7 @@ footer {
 }
 
 #ds-thread #ds-reset .ds-comments{
-    background:#4e5d6c!important;
+    background:#e5e5e5!important;
 }
 .about_me{
     word-break:break-all;
@@ -50,4 +50,7 @@ footer {
 }
 .pager .disabled>a, .pager .disabled>a:hover, .pager .disabled>a:focus, .pager .disabled>span {
     background-color: #e5e5e5!important;
+}
+.btn-default, .btn-default:hover {
+    background-color: #e8e8e8!important; 
 }
