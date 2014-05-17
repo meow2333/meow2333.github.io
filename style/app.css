@@ -54,3 +54,9 @@ footer {
 .btn-default, .btn-default:hover {
     background-color: #e8e8e8!important; 
 }
+.modal-content {
+    background-color: #f4f4f4!important;
+}
+.modal-header, .modal-footer {
+    background-color: #e5e5e5!important;
+}
